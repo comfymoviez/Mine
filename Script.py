@@ -264,7 +264,7 @@ Mᴏᴠɪᴇs Nᴏᴛ Aᴠᴀɪʟᴀʙʟᴇ Rᴇᴀsᴏɴ:
 🗂 𝗙𝗶𝗹𝗲: <b><font class=smcp>{file_name}</font></b>
 📀 𝗦𝗶𝘇𝗲: <b><font class=smcp>{file_size}</font></b>
 
-<b>🔰 Cʀᴇᴀᴛᴏʀ : <a href="https://ComfyTraderz">𝐊𝐔𝐒𝐇𝐀𝐋</a>
+<b>🔰 Cʀᴇᴀᴛᴏʀ : <a href="https://ComfyTraderz">COMFY TRADERS</a>
 🔰 Cʜᴀɴɴᴇʟ : <a href="https://t.me/cinemaduniyyabk">𝐌𝐎𝐕𝐈𝐄𝐒 𝐂𝐇𝐀𝐍𝐍𝐄𝐋</a>
 🔰 Gʀᴏᴜᴘ : <a href="https://t.me/rockersallmoviesearch">𝐌𝐎𝐕𝐈𝐄 𝐑𝐄𝐐𝐔𝐄𝐒𝐓 𝐆𝐑𝐎𝐔𝐏</a></b>"""
     
